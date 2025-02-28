@@ -1,0 +1,216 @@
+/* Home.css */
+
+/* Basic Styling for the Homepage */
+.home-page {
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Hero Section */
+  .hero {
+    background-color: #009688; /* Primary Color */
+    color: white;
+    text-align: center;
+    padding: 80px 20px;
+    margin-bottom: 40px;
+  }
+  
+  .hero h1 {
+    font-size: 3em;
+    margin-bottom: 10px;
+  }
+  
+  .hero p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+  }
+  
+  .cta-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .cta-button {
+    background-color: #f1c40f;
+    color: #fff;
+    font-size: 1.2em;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .cta-button:hover {
+    background-color: #f39c12;
+  }
+  
+  /* How It Works Section */
+  .how-it-works {
+    padding: 40px 20px;
+    text-align: center;
+    background-color: #fff;
+  }
+  
+  .how-it-works h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+  
+  .how-it-works ul {
+    list-style-type: none;
+    padding: 0;
+    font-size: 1.2em;
+  }
+  
+  .how-it-works li {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #e2e2e2;
+    border-radius: 5px;
+  }
+  
+  /* Ticket Lookup Section */
+  .ticket-lookup {
+    padding: 40px 20px;
+    text-align: center;
+    background-color: #f9f9f9;
+  }
+  
+  .ticket-lookup h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+  
+  .ticket-lookup p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+  }
+  
+  .ticket-lookup form {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .ticket-lookup input {
+    padding: 10px;
+    font-size: 1.2em;
+    width: 250px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .ticket-lookup button {
+    padding: 10px 20px;
+    font-size: 1.2em;
+    background-color: #009688;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .ticket-lookup button:hover {
+    background-color: #00796b;
+  }
+  
+  /* Features Section */
+  .features {
+    padding: 40px 20px;
+    text-align: center;
+    background-color: #fff;
+  }
+  
+  .features h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+  
+  .features ul {
+    list-style-type: none;
+    padding: 0;
+    font-size: 1.2em;
+  }
+  
+  .features li {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #e2e2e2;
+    border-radius: 5px;
+  }
+  
+  /* Testimonials Section */
+  .testimonials {
+    padding: 40px 20px;
+    background-color: #f4f4f4;
+    text-align: center;
+  }
+  
+  .testimonials h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+  
+  .testimonial {
+    font-style: italic;
+    font-size: 1.2em;
+    margin: 20px auto;
+    max-width: 600px;
+  }
+  
+  .testimonial span {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+    color: #009688;
+  }
+  
+  /* Contact Section */
+  .contact {
+    padding: 40px 20px;
+    text-align: center;
+    background-color: #fff;
+  }
+  
+  .contact h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+  
+  .contact form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+  }
+  
+  .contact input,
+  .contact textarea {
+    padding: 15px;
+    font-size: 1.2em;
+    width: 300px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .contact button {
+    padding: 15px 30px;
+    font-size: 1.2em;
+    background-color: #009688;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .contact button:hover {
+    background-color: #00796b;
+  }
+  
