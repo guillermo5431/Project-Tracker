@@ -1,4 +1,4 @@
-Your website is designed to help customers track the progress of their 
+This website is designed to help customers track the progress of their 
 projects in real time. With a secure login system, users can access 
 their personal dashboard, view ongoing projects, and monitor 
 completion status. Each project is assigned a unique ticket number, 
