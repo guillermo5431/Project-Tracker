@@ -1,3 +1,6 @@
+PROJECT TRACKER
+-----------------------
+
 This website is designed to help customers track the progress of their 
 projects in real time. With a secure login system, users can access 
 their personal dashboard, view ongoing projects, and monitor 
